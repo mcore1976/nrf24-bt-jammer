@@ -2,8 +2,8 @@
 #include <RF24.h>
 
 // Wiring:
-// RPI2040-ONE 3V3  pin            <-> VCC  pin #1 NRF24L01
-// RPI2040-ONE GND  pin            <-> GND  pin #2 NRF24L01
+// RPI2040-ONE GND  pin            <-> GND  pin #1 NRF24L01
+// RPI2040-ONE 3V3  pin            <-> VCC  pin #2 NRF24L01
 // RPI2040-ONE pin #29 GP29        <-> CE   pin #3 NRF24L01 
 // RPI2040-ONE SPI0 CS  pin #1 GP1 <-> CNS  pin #4 NRF24L01
 // RPI2040-ONE SPI0 SCK pin #2 GP2 <-> SCK  pin #5 NRF24L01
