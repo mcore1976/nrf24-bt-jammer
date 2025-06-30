@@ -57,7 +57,7 @@ void RF() {
 }
 
 void loop(void) 
- { // JUST SWIPE THROUGH ALL 40 BLE CHANNELS
+ { // JUST SWEEP THROUGH ALL 40 BLE CHANNELS
   for (i = 1; i < 80; i = i + 2) {  radio.setChannel(i); };
   }
 
