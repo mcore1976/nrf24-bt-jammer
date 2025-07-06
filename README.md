@@ -12,3 +12,7 @@ You have to also install RF24 library - Go to Sketch / Add library / Manage Libr
 
 When everything configured, code uploaded - works like in this video : https://youtu.be/fDVAxKkB4yw?si=ka-PlECdjAus9C9j
 
+ATTENTION - for better jamming range please use EBYTE NRF24L01 modules like E01-ML01DP5 (100mW) or E01-2G4M27S (27dBm = 0,5 W)  
+
+
+
