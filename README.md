@@ -2,7 +2,7 @@
 
 Bluetooth jammer based on NRF24L01 module and Arduino Raspberry Pico RP2040
 
-This is a variation of orignial project from Smoochie : https://github.com/smoochiee/Bluetooth-jammer-esp32
+This is a variation of original project from Smoochie : https://github.com/smoochiee/Bluetooth-jammer-esp32
 
 If you intend to use RP2040 arduino module ( RP2040-one or RP2040-Zero module from the Waveshare or cheap clones )  please add URL in board manager - Menu / Preferences / settings / Additional Board Manager URL : https://github.com/earlephilhower/arduino-pico/releases/download/4.0.2/package_rp2040_index.json
 
