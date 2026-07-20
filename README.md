@@ -14,7 +14,7 @@ When everything configured, code uploaded - works like in this video : https://y
 
 ATTENTION - for better jamming range please use EBYTE NRF24L01 modules like E01-ML01DP5 (100mW) or E01-2G4M27S (27dBm = 0,5 W)  
 
-The best module I found is E01-2G4M27D , which needs to be powered directly from 5V line of RP2040-ZERO. It gives 500mW radio power.
+The best module I found is E01-2G4M27D , which needs to be powered directly from 5V line of RP2040-ZERO. It gives 500mW radio power. Connect pin  #2 of E01-2G4M27D directly to pin 5V od RP2040-ZERO / RP2040-ONE module
 
 
 
